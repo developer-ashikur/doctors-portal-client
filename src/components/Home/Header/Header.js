@@ -1,9 +1,15 @@
 import React from 'react';
+import BusinessInfo from '../BusinessInfo/BusinessInfo';
+import HeaderMain from '../HeaderMain/HeaderMain';
+import Navbar from '../../shared/Navbar/Navbar';
+import './Header.css';
 
 const Header = () => {
     return (
-        <div>
-            
+        <div className='header-container'>
+            <Navbar />
+            <HeaderMain />
+            <BusinessInfo />
         </div>
     );
 };

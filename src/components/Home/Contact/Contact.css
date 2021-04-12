@@ -1,0 +1,6 @@
+.contact{
+    background: url(../../../images/appointmentBg.png) center no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(64, 72, 91, .9);
+}

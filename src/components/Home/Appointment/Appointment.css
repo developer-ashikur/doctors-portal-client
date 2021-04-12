@@ -1,0 +1,9 @@
+.appointment-container{
+    background: url(../../../images/appointmentBg.png) center no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(65, 72, 92, .9);
+}
+/* .appointment-img{
+    transform: translateY(-100px);
+} */
